@@ -1,0 +1,168 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "At Quality Food, we're obsessed with one thing: bringing you the very best. We believe quality isn't just a word, it's a promise. " 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "At Super Taste, the name says it all. We're on a mission to explode your taste buds with dishes that are anything but ordinary. We don't just serve food; we serve flavor explosions guaranteed to leave you wanting more." 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./dinner1.jpg",
+                "title": "SOYA CHAAP",
+                "category": "Dinner"
+            },
+            {
+                "id": 2,
+                "image": "./dinner2.jpg",
+                "title": "VEG. SOUP",
+                "category": "Dinner"
+            },
+            {
+                "id": 3,
+                "image": "./breakfast1.jpg",
+                "title": "KURKURE MOMOS",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "./dinner3.jpg",
+                "title": "CHEESE SANDWICH",
+                "category": "Dinner"
+            },
+            {
+                "id": 5,
+                "image": "./lunch1.png",
+                "title": "BURGER",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "./dinner4.jpg",
+                "title": "PANNER TIKKA",
+                "category": "Dinner"
+            },
+            {
+                "id": 7,
+                "image": "./dinner5.png",
+                "title": "HAKKA NOODLES",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./dinner6.jfif",
+                "title": "PANEER WRAP",
+                "category": "Dinner"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./team_member_1.png",
+                "name": "Harmanpreet Singh",
+                "designation": "Founder & Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "./team_member_2.png",
+                "name": "WADE WARREN",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "./team_member_3.png",
+                "name": "JHON DOE",
+                "designation": "Fast Food Chef"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_4.png",
+                "name": "ALEX COAL",
+                "designation": "Senior Chef"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 3,
+                "number": "",
+                "title": ""
+            },
+            {
+                "id": 2,
+                "number": "",
+                "title": ""
+            },
+            {
+                "id": 3,
+                "number": "",
+                "title": ""
+            },
+            {
+                "id": 4,
+                "number": "",
+                "title": ""
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
